@@ -463,7 +463,7 @@ a.join_bt:focus {
 }
 
 .logo_main {
-    padding: 25px 0 0;
+	padding: 25px 0 0;
 }
 
 .top-header .navbar {
@@ -818,7 +818,7 @@ button#sidebarCollapse {
 }
 
 .slide_text h3 {
-    font-size: 115px;
+    font-size: 60px;
     font-weight: 700;
     padding: 0;
     text-transform: uppercase;
